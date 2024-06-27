@@ -1,0 +1,53 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/WORK/2022/VDS/VDSR/app/src/main/res/drawable/cert_custom_border.xml" value="0.24" />
+        <entry key="..\:/WORK/2022/VDS/VDSR/app/src/main/res/font/ecsquaresanscondpro_med.xml" value="0.2640625" />
+        <entry key="..\:/WORK/2022/VDS/VDSR/app/src/main/res/layout-sw320dp/activity_main.xml" value="0.2857789855072464" />
+        <entry key="..\:/WORK/2022/VDS/VDSR/app/src/main/res/layout-sw480dp/activity_main.xml" value="0.6019417475728155" />
+        <entry key="..\:/WORK/2022/VDS/VDSR/app/src/main/res/layout/activity_certificates.xml" value="0.25052083333333336" />
+        <entry key="..\:/WORK/2022/VDS/VDSR/app/src/main/res/layout/activity_info.xml" value="0.25052083333333336" />
+        <entry key="..\:/WORK/2022/VDS/VDSR/app/src/main/res/layout/activity_main.xml" value="0.9901315789473685" />
+        <entry key="..\:/WORK/2022/VDS/VDSR/app/src/main/res/layout/activity_result.xml" value="0.3908514492753623" />
+        <entry key="..\:/WORK/2022/VDS/VDSR/app/src/main/res/layout/activity_tabcertificate.xml" value="0.23333333333333334" />
+        <entry key="..\:/WORK/2022/VDS/VDSR/app/src/main/res/layout/activity_tabcrl.xml" value="0.2564102564102564" />
+        <entry key="..\:/WORK/2022/VDS/VDSR/app/src/main/res/layout/fragment_advanced.xml" value="0.3908514492753623" />
+        <entry key="..\:/WORK/2022/VDS/VDSR/app/src/main/res/layout/fragment_cert.xml" value="0.23385416666666667" />
+        <entry key="..\:/WORK/2022/VDS/VDSR/app/src/main/res/layout/fragment_certinfo.xml" value="0.25" />
+        <entry key="..\:/WORK/2022/VDS/VDSR/app/src/main/res/layout/fragment_crl.xml" value="0.2564102564102564" />
+        <entry key="..\:/WORK/2022/VDS/VDSR/app/src/main/res/layout/fragment_crlinfo.xml" value="0.2564102564102564" />
+        <entry key="..\:/WORK/2022/VDS/VDSR/app/src/main/res/layout/fragment_details.xml" value="0.3908514492753623" />
+        <entry key="..\:/WORK/2022/VDS/VDSR/app/src/main/res/layout/fragment_overview.xml" value="0.23385416666666667" />
+        <entry key="..\:/WORK/2022/VDS/VDSR/app/src/main/res/layout/layout_cert.xml" value="1.25" />
+        <entry key="..\:/WORK/2022/VDS/VDSR/app/src/main/res/layout/layout_crl.xml" value="0.2564102564102564" />
+        <entry key="..\:/WORK/2022/VDS/VDSR/app/src/main/res/layout/toast_certificate.xml" value="0.25052083333333336" />
+        <entry key="..\:/WORK/2022/VDS/VDSR/app/src/main/res/layout/toolbar.xml" value="0.3078125" />
+        <entry key="..\:/WORK/2022/VDS/VDSR/app/src/main/res/menu/certificate_menu.xml" value="0.25052083333333336" />
+        <entry key="..\:/WORK/2022/VDS/VDSR/app/src/main/res/menu/clr_menu.xml" value="0.19145299145299147" />
+        <entry key="..\:/WORK/2022/VDS/VDSR/app/src/main/res/menu/main_menu.xml" value="0.434375" />
+        <entry key="..\:/WORK/2022/VDS/VDSR/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.24" />
+        <entry key="..\:/Work/VDS/eu.jrc.vdsr/app/src/main/res/drawable/cert_custom_border.xml" value="0.35052083333333334" />
+        <entry key="..\:/Work/VDS/eu.jrc.vdsr/app/src/main/res/drawable/layout_separator.xml" value="0.5025" />
+        <entry key="..\:/Work/VDS/eu.jrc.vdsr/app/src/main/res/drawable/main_layout_separator.xml" value="0.506" />
+        <entry key="..\:/Work/VDS/eu.jrc.vdsr/app/src/main/res/layout-sw320dp/activity_main.xml" value="0.3177083333333333" />
+        <entry key="..\:/Work/VDS/eu.jrc.vdsr/app/src/main/res/layout/activity_certificates.xml" value="0.559375" />
+        <entry key="..\:/Work/VDS/eu.jrc.vdsr/app/src/main/res/layout/activity_main.xml" value="0.559375" />
+        <entry key="..\:/Work/VDS/eu.jrc.vdsr/app/src/main/res/layout/activity_result.xml" value="0.559375" />
+        <entry key="..\:/Work/VDS/eu.jrc.vdsr/app/src/main/res/layout/activity_tabcertificate.xml" value="0.559375" />
+        <entry key="..\:/Work/VDS/eu.jrc.vdsr/app/src/main/res/layout/fragment_cert.xml" value="0.559375" />
+        <entry key="..\:/Work/VDS/eu.jrc.vdsr/app/src/main/res/layout/fragment_certinfo.xml" value="0.559375" />
+        <entry key="..\:/Work/VDS/eu.jrc.vdsr/app/src/main/res/layout/fragment_details.xml" value="0.559375" />
+        <entry key="..\:/Work/VDS/eu.jrc.vdsr/app/src/main/res/layout/fragment_overview.xml" value="0.559375" />
+        <entry key="..\:/Work/VDS/eu.jrc.vdsr/app/src/main/res/layout/layout_cert.xml" value="0.559375" />
+        <entry key="..\:/Work/VDS/eu.jrc.vdsr/app/src/main/res/layout/toolbar_main.xml" value="0.559375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
